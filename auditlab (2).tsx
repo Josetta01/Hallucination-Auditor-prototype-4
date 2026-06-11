@@ -15,7 +15,7 @@ import {
   TerminalSquare
 } from 'lucide-react';
 
-const apiKey = ""; // API key is provided by the execution environment
+const apiKey = "sk-517b3eac91cb4f49908d226cee8dbddd"; // API key is provided by the execution environment
 
 const FALLACY_TYPES = [
   "Anachronism (Timeline Error)",
